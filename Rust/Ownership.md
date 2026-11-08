@@ -12,3 +12,4 @@ In Rust, it's similar: a variable can access or modify a value without necessari
 It's curious to me that, despite already knowing Python, C, and SQL, I'm now learning a language that makes these distinctions so explicit. I'm glad the Ddoggen of the past decided to learn C first.... that is making the job of learn this a lot more easier ;_;
 
 [[Mutable and unmutable variables]].
+[[Rust]]

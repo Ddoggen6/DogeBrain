@@ -1,0 +1,1 @@
+**Rust is a general-purpose, statically-typed programming language** designed for performance, reliability, and memory safety. It emphasizes **concurrency** and prevents common errors like segfaults and data races without relying on a garbage collector, instead using a unique ownership system enforced at compile time.
